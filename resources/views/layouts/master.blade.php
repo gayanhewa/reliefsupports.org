@@ -82,7 +82,6 @@
 
 @yield('content')
 <!-- /.container -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-504627a727520762"></script>
 <footer>
     <div class="container">
         <div class="row">
@@ -103,5 +102,6 @@
 </footer>
 
 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-504627a727520762"></script>
 </body>
 </html>
