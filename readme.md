@@ -9,6 +9,7 @@ http://reliefsupports.org
 
 ## Contribution Guide
 
+Join the chat [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/relief-supports/Lobby)
 ### Setup the development environment
 
 Clone the prject repository as belows;
